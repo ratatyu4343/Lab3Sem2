@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654197629 source:c:\users\professional\desktop\ooop\laboratorna3\lab3\main.cpp
+	<iostream>
+	"MultiMatrix.h"
+
+1654198198 c:\users\professional\desktop\ooop\laboratorna3\lab3\include\multimatrix.h
+	<vector>
+	<thread>
+	<iostream>
+
+1654197517 source:c:\users\professional\desktop\ooop\laboratorna3\lab3\src\multimatrix.cpp
+	"MultiMatrix.h"
+
